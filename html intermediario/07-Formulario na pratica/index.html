@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário</title>
+</head>
+<body>
+    <h1> Formulários</h1>
+    <h3>Formulario com Get</h3>
+    <form method="get" action="index.html">
+        <input type="text" name="q" value="formulario">
+        <input type="submit" value="Enviar">
+    </form>
+
+    <h3>Formulario com Post</h3>
+    <form method="post" action="index.html">
+        <input type="text" name="q" value="formulario">
+        <input type="submit" value="Enviar">
+    </form>
+
+    <h3>Formulario login do facebook</h3>
+    <form method="get" action="index.html">
+
+        <input type="text" name="nome" id="nome" placeholder="Nome">
+
+        <input type="text" name="sobrenome" id="sobrenome" placeholder="Sobrenome">
+
+        <input type="text" name="celuar-ou-email" id="celuar-ou-email" placeholder=" Celular ou Email">
+        <input type="password" name="senha" id="senha" placeholder="Digite sua senha">
+    </form>
+
+<label> Data de Nascimento </label>
+<select name="dia" id="dia">
+    <option value="1">1</option>
+    <option value="2">2</option>
+    <option value="3">3</option>
+    <option value="4">4</option>
+    <option value="5">5</option>
+</select>
+
+<select name="mes" id="mes">
+    <option value="jan">Jan</option>
+    <option value="fev">Fev</option>
+    <option value="mai">Mai</option>
+    <option value="abr">Abril</option>
+    <option value="Ago">Ago</option>
+</select>
+
+<select name="ano" id="ano">
+    <option value="2000">2000</option>
+    <option value="2001">2001</option>
+    <option value="2002">2002</option>
+    <option value="2003">2003</option>
+    <option value="2004">2004</option>
+</select>
+
+<br>
+
+<label> Genero</label>
+<br>
+<label for="masculino">Masculino</label>
+<input id="masculino" type="radio" name="genero"> <br>
+<label for="femenino">Femenino</label>
+<input id="femenino" type="radio" name="genero"> <br>
+<br>
+<input type="submit" value="Enviar">
+</body>
+</html>
