@@ -1,0 +1,28 @@
+h1{
+    color:rgb(43, 67, 226);
+    text-align: center;
+}
+
+.tabela{
+   justify-content: space-between;
+    margin: 1.2rem;
+    padding: .3rem;
+    font-size: 20px;
+}
+.cabecalho-moda{
+    background-color: #BB86FC;
+    font-size: 30px;
+}
+.cabecalho-casa{
+    background-color: #00c4b4;
+    font-size: 30px;
+}
+
+.moda, .casa{
+    background-color: #424250;
+}
+.moda, .titulo-moda, .casa, .titulo-casa{
+    color: aliceblue;
+    padding: 10px;
+    text-align: center;
+}
