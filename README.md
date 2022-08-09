@@ -1,4 +1,8 @@
 # Aulas do Curso de Desenvolvimento Web com mentoria do DEV QUEST 
+
+
+![image](https://user-images.githubusercontent.com/105385268/183742811-aff87e37-52c9-4611-b249-f384447e6849.png)
+
 Aqui será abordado o HTML e o CSS 
 
 ### [HTML Intermediário](https://github.com/camilamaraschin/dev-quest-aulas/tree/main/html%20intermediario)
