@@ -1,3 +1,6 @@
+# Aulas do Curso de Desenvolvimento Web com mentoria do DEV QUEST 
+Aqui será abordado o HTML e o CSS 
+
 ### [HTML Intermediário](https://github.com/camilamaraschin/dev-quest-aulas/tree/main/html%20intermediario)
 
 01-input-text <br>
@@ -8,6 +11,9 @@
 06-button e input type button <br>
 07-Formulario na pratica <br>
 08-Tags-semanticas <br>
+
+### [HTML Avançado ](https://github.com/camilamaraschin/dev-quest-aulas/tree/main/html%20intermediario)
+01- Favicon 
 
 ###  [Desafio nível 1- Tabela Estlizada (HTML e CSS)](https://github.com/camilamaraschin/dev-quest-aulas/tree/main/Desafio-HTML-CSS)
 ![image](https://user-images.githubusercontent.com/105385268/172622279-2f0a36b0-7cfe-4d0b-be4b-61506fde31f1.png)
