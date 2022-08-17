@@ -1,0 +1,18 @@
+a{
+    cursor: all-scroll;
+    margin: 20px;
+    padding: 10px;
+}
+
+a:visited{
+    color: aquamarine;
+}
+
+a:active{
+    color: black;
+}
+
+a:hover{
+    background-color: rebeccapurple;
+    color: aliceblue;
+}
