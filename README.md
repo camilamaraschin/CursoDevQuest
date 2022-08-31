@@ -29,6 +29,13 @@
 06 -  Fixed <br>
 07 -  Responsividade <br>
 08 -  Centralizando Elementos<br>
+
+### [CSS Avançado](https://github.com/camilamaraschin/dev-quest-aulas/tree/main/html%20intermediario)<br>
+01 - Flex Direction<br>
+02 - Justify-Content<br>
+03- Align- Items <br>
+
+
 ###  [Desafio nível 1- Tabela Estlizada (HTML e CSS)](https://github.com/camilamaraschin/dev-quest-aulas/tree/main/Desafio-HTML-CSS)
 ![image](https://user-images.githubusercontent.com/105385268/172622279-2f0a36b0-7cfe-4d0b-be4b-61506fde31f1.png)
 
@@ -47,3 +54,6 @@
 - Fazer a divisão da tabela
 - Associar as "Class" no CSS para estlização
 - Centralizar a tabela
+
+###  [Desafio nível 2 - Menu Responsivo- FlexBox](https://github.com/camilamaraschin/dev-quest-aulas-html-css/tree/main/Desafio%20CSS%20avan%C3%A7ado-%20Flexbox)
+![image](https://user-images.githubusercontent.com/105385268/187761325-ab80a1c5-3e8d-4086-8d9c-7179c9093c2f.png)
