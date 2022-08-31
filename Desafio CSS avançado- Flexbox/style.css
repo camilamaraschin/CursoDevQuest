@@ -1,0 +1,90 @@
+html{
+    font-size: 62,5%;
+}
+
+body{
+   font-family: 'Public Sans', sans-serif;
+   font-weight: 400;
+
+}
+
+.header{
+    background-color: #ffffff ;
+    display: flex; 
+    justify-content: space-between;
+    align-items: center;
+    padding: 45px;
+    
+}
+
+.logo{
+    background-color: #ffff;
+    display: flex;
+    align-items: center;
+}
+
+.logo h1{
+    font-size: 2rem;
+    margin-left: 5px;
+}
+
+.menu{
+    background-color: #ffffff;
+    display: flex;
+    align-items: center;
+
+}
+
+.menu li a {
+    padding: 10px 5px;
+    transition: 0.3s ease-in-out;
+
+}
+
+.menu li a:hover{
+    background-color: #5bc241;
+    color: #ffffff;
+}
+
+.menu li a .btn{
+    background-color: ;
+    border-radius: 1rem;
+    color: #ffffff;
+    margin-left: 2rem;
+    padding: 10px 20px;
+}
+
+@media(max-width:650px){
+    .header{
+
+        flex-direction: column;
+    }
+
+    .logo h1{
+        font-size: 4rem;
+    }
+
+    .menu{
+        flex-direction: column;
+        margin-top: 50px;
+    }
+
+    .menu li{
+        padding: 33px 0;
+    }
+
+    .menu li:last-child{
+        margin-top: 20px;
+    }
+
+    .menu li a {
+        font-size: 4rem;
+        padding: 15px 23px;
+    }
+
+    .menu li a .btn{
+        font-size: 1.8rem;
+        padding: 15px 23px;
+    }
+
+}
