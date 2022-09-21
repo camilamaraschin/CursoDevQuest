@@ -1,0 +1,37 @@
+.container{
+    display: flex;
+    max-width:400px;
+    border: 1px solid #ccc;
+}
+.item{
+    background-color: blueviolet;
+    font-size:20px;
+    margin: 5px;
+    text-align:center;
+}
+.justify-content .item1, 
+.justify-content .item3{
+    width: 80px;
+}
+
+.flex-start{
+    justify-content: flex-start;
+}
+
+.flex-end{
+    justify-content: flex-end;
+}
+.center{
+    justify-content: center;
+}
+.space-between{
+    justify-content: space-between;
+}
+
+.space-around{
+    justify-content: space-around
+    ;
+}
+.space-evenly{
+    justify-content: space-evenly;
+}
