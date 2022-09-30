@@ -3,57 +3,35 @@
 
 ![image](https://user-images.githubusercontent.com/105385268/183742811-aff87e37-52c9-4611-b249-f384447e6849.png)
 
-<b> Aqui será abordado o HTML e o CSS do intermediario ao avançado! </b>
-
-### [HTML Intermediário](https://github.com/camilamaraschin/dev-quest-aulas/tree/main/html%20intermediario)
-
-01-input-text <br>
-02-inputs-number-password-submit <br>
-03-input-checkbox-radios <br>
-04-Select <br>
-05-Textarea <br>
-06-button e input type button <br>
-07-Formulario na pratica <br>
-08-Tags-semanticas <br>
-
-### [HTML Avançado ](https://github.com/camilamaraschin/dev-quest-aulas/tree/main/html%20intermediario)
-01- Pictures<br>
-02 -Favicon <br>
-
-### [CSS Intermediario](https://github.com/camilamaraschin/dev-quest-aulas/tree/main/html%20intermediario)<br>
-01 - Estilo de texto <br>
-02 - Estilizando Links <br>
-03 - Estilizar Listas <br>
-04 - Background <br>
-05 -  Display <br>
-06 -  Fixed <br>
-07 -  Responsividade <br>
-08 -  Centralizando Elementos<br>
-
-### [CSS Avançado](https://github.com/camilamaraschin/dev-quest-aulas/tree/main/html%20intermediario)<br>
-01 - Flex Direction<br>
-02 - Justify-Content<br>
-03- Align- Items <br>
+## Projetos desenvolvidos no curso
+[Desafio nível 1- Tabela Estlizada (HTML e CSS)](https://github.com/camilamaraschin/dev-quest-aulas/tree/main/Desafio-HTML-CSS)<br>
+[Desafio nível 2 - Menu Responsivo- FlexBox](https://github.com/camilamaraschin/dev-quest-aulas-html-css/tree/main/Desafio%20CSS%20avan%C3%A7ado-%20Flexbox)
 
 
-###  [Desafio nível 1- Tabela Estlizada (HTML e CSS)](https://github.com/camilamaraschin/dev-quest-aulas/tree/main/Desafio-HTML-CSS)
-![image](https://user-images.githubusercontent.com/105385268/172622279-2f0a36b0-7cfe-4d0b-be4b-61506fde31f1.png)
+## Veja meu progresso! :green_heart: [■■■■□□□□□] 49%
 
-### Desafio realizado nesse projeto
-- Faça uma tabela de roupas com tamanho e valor da peça descrito em cada linha.
-
-- Não esqueça de adicionar um cabeçalho em cada coluna.
-
-- Cor de fundo do cabeçalho moda - #BB86FC.
-
-- Cor de fundo do cabeçalho casa - #00C4B4.
-
-- Cor de fundo dos valores da tabela - #424250.
-
-#### Dificuldades
-- Fazer a divisão da tabela
-- Associar as "Class" no CSS para estlização
-- Centralizar a tabela
-
-###  [Desafio nível 2 - Menu Responsivo- FlexBox](https://github.com/camilamaraschin/dev-quest-aulas-html-css/tree/main/Desafio%20CSS%20avan%C3%A7ado-%20Flexbox)
-![image](https://user-images.githubusercontent.com/105385268/187761325-ab80a1c5-3e8d-4086-8d9c-7179c9093c2f.png)
+- [X] Usando o Terminal
+- [X] Conhecendo o VS Code
+- [X] HTML5 Básico
+- [X] CSS3 Básico
+- [X] Git/GitHub
+- [X] Clean Code
+- [X] HTML5 Intermediário
+- [X] CSS3 Intermediário
+- [X] HTML5 Avançado
+- [X] CSS3 Avançado pt. 1
+- [X] CSS3 Avançado pt. 2 | Flex
+- [ ] CSS3 Avançado pt. 3 | Grid
+- [ ] CSS3 | Módulo de Reforço 
+- [ ] Projeto Landing Page com Flex e Grid
+- [X] JavaScript Básico
+- [ ] JavaScript Intermediário
+- [ ] JavaScript Avançado
+- [ ] Testes Automatizados de Software com Jest
+- [ ] Projeto Mundo Real com Fetch e GitHub
+- [ ] A Base do React
+- [ ] React Avançado
+- [ ] Context API
+- [ ] Redux
+- [ ] TypeScript
+- [ ] Sass
