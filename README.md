@@ -8,7 +8,7 @@
 [Desafio nível 2 - Menu Responsivo- FlexBox](https://github.com/camilamaraschin/dev-quest-aulas-html-css/tree/main/Desafio%20CSS%20avan%C3%A7ado-%20Flexbox)
 
 
-## Veja meu progresso! :green_heart: [■■■■□□□□□] 49%
+## Veja meu progresso! :green_heart: [■■■■□□□□□] 56%
 
 - [X] Usando o Terminal
 - [X] Conhecendo o VS Code
