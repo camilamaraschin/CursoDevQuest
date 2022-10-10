@@ -5,7 +5,9 @@
 
 ## Projetos desenvolvidos no curso
 [Desafio nível 1- Tabela Estlizada (HTML e CSS)](https://github.com/camilamaraschin/dev-quest-aulas/tree/main/Desafio-HTML-CSS)<br>
-[Desafio nível 2 - Menu Responsivo- FlexBox](https://github.com/camilamaraschin/dev-quest-aulas-html-css/tree/main/Desafio%20CSS%20avan%C3%A7ado-%20Flexbox)
+[Desafio nível 2 - Menu Responsivo- FlexBox](https://github.com/camilamaraschin/dev-quest-aulas-html-css/tree/main/Desafio%20CSS%20avan%C3%A7ado-%20Flexbox)<br>
+[Exercício HTML e CSS avançado- Profile Card](https://github.com/camilamaraschin/CursoDevQuest/tree/main/Exercicio%20HTML%20e%20CSS%20Avan%C3%A7ad-%20Profile%20Card)<br>
+[Exercício HTML e CSS avançado - Gerador de Conselhos] (  ) <br>
 
 
 ## Veja meu progresso! :green_heart: [■■■■□□□□□] 56%
