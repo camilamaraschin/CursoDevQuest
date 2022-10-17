@@ -7,10 +7,11 @@
 [Desafio nível 1- Tabela Estlizada (HTML e CSS)](https://github.com/camilamaraschin/dev-quest-aulas/tree/main/Desafio-HTML-CSS)<br>
 [Desafio nível 2 - Menu Responsivo- FlexBox](https://github.com/camilamaraschin/dev-quest-aulas-html-css/tree/main/Desafio%20CSS%20avan%C3%A7ado-%20Flexbox)<br>
 [Exercício HTML e CSS avançado- Profile Card](https://github.com/camilamaraschin/CursoDevQuest/tree/main/Exercicio%20HTML%20e%20CSS%20Avan%C3%A7ad-%20Profile%20Card)<br>
+[Exercício CSS Avançado Grid - Templete do Youtube](https://github.com/camilamaraschin/CursoDevQuest/tree/main/Exerc%C3%ADcios%20CSS%20avan%C3%A7ado%20-%20Grid)<br>
 [Exercício HTML e CSS avançado - Gerador de Conselhos] (  ) <br>
 
 
-## Veja meu progresso! :green_heart: [■■■■□□□□□] 56%
+## Veja meu progresso! :green_heart: [■■■■□□□□□] 62%
 
 - [X] Usando o Terminal
 - [X] Conhecendo o VS Code
@@ -23,8 +24,8 @@
 - [X] HTML5 Avançado
 - [X] CSS3 Avançado pt. 1
 - [X] CSS3 Avançado pt. 2 | Flex
-- [ ] CSS3 Avançado pt. 3 | Grid
-- [ ] CSS3 | Módulo de Reforço 
+- [X] CSS3 Avançado pt. 3 | Grid
+- [X] CSS3 | Módulo de Reforço 
 - [ ] Projeto Landing Page com Flex e Grid
 - [X] JavaScript Básico
 - [ ] JavaScript Intermediário
