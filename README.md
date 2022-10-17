@@ -8,6 +8,7 @@
 [Desafio nível 2 - Menu Responsivo- FlexBox](https://github.com/camilamaraschin/dev-quest-aulas-html-css/tree/main/Desafio%20CSS%20avan%C3%A7ado-%20Flexbox)<br>
 [Exercício HTML e CSS avançado- Profile Card](https://github.com/camilamaraschin/CursoDevQuest/tree/main/Exercicio%20HTML%20e%20CSS%20Avan%C3%A7ad-%20Profile%20Card)<br>
 [Exercício CSS Avançado Grid - Templete do Youtube](https://github.com/camilamaraschin/CursoDevQuest/tree/main/Exerc%C3%ADcios%20CSS%20avan%C3%A7ado%20-%20Grid)<br>
+[Projeto Landing Page com Grid e Flex] <br>
 [Exercício HTML e CSS avançado - Gerador de Conselhos] (  ) <br>
 
 
