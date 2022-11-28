@@ -12,7 +12,7 @@
 [Exercício HTML e CSS avançado - Gerador de Conselhos] (  ) <br>
 
 
-## Veja meu progresso! :green_heart: [■■■■□□□□□] 62%
+## Veja meu progresso! :green_heart: [■■■■□□□□□] 78%
 
 - [X] Usando o Terminal
 - [X] Conhecendo o VS Code
@@ -27,13 +27,13 @@
 - [X] CSS3 Avançado pt. 2 | Flex
 - [X] CSS3 Avançado pt. 3 | Grid
 - [X] CSS3 | Módulo de Reforço 
-- [ ] Projeto Landing Page com Flex e Grid
+-[X] Projeto Landing Page com Flex e Grid
 - [X] JavaScript Básico
-- [ ] JavaScript Intermediário
+- [X] JavaScript Intermediário
 - [ ] JavaScript Avançado
 - [ ] Testes Automatizados de Software com Jest
 - [ ] Projeto Mundo Real com Fetch e GitHub
-- [ ] A Base do React
+- [X] A Base do React
 - [ ] React Avançado
 - [ ] Context API
 - [ ] Redux
