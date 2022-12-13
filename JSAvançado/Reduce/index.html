@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+     <script>
+
+        let ordens = [
+            {cliente: 'Roberto', tipo:'compra', quantidadde: 56, ativo: 'nflx34'},
+            {cliente: 'Ricarco', tipo:'compra', quantidadde: 56, ativo: 'aapl34'},
+            {cliente: 'Rafael', tipo:'venda', quantidadde: 56, ativo: 'gogl34'},
+        ]
+
+        let quantidadeDeOrdens = ordens.reduce(function(somaOrdens, ordem){
+            return somaOrdens + ordem.quantidadde
+        }, 0)
+
+        console.log(quantidadeDeOrdens)
+     </script>
+</body>
+</html>
