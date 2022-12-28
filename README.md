@@ -11,7 +11,7 @@
 
 
 
-## Veja meu progresso! :green_heart: [■■■■□□□□□] 99%
+## Veja meu progresso! :green_heart: [■■■■] 99%
 
 - [X] Usando o Terminal
 - [X] Conhecendo o VS Code
